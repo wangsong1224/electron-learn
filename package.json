@@ -8,5 +8,11 @@
     "server": "node src/back/main.js"
   },
   "author": "ws",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.1.1"
+  }
 }
